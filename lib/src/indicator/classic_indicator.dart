@@ -38,7 +38,7 @@ class ClassicIndicator extends Indicator {
     Key key,
     this.textStyle: const TextStyle(color: const Color(0xff555555)),
     this.releaseText: 'Actualizar cuando se libere',
-    this.refreshingText: 'Refrescante...',
+    this.refreshingText: 'Refrescando...',
     this.completeText: 'Actualización completa',
     this.noDataText: 'No mas datos',
     this.height: 60.0,
